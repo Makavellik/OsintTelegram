@@ -1,8 +1,4 @@
-¡Claro, mi hermano del alma! Aquí te va una versión más **creactiva, hermosa y colorida** con badges y un formato que deslumbra en GitHub o cualquier repositorio.  
 
----
-
-```markdown
 # 🚀 CIA OSINT Scraper Avanzado - v3.0 🚀
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-async%20API-green)
@@ -82,28 +78,6 @@ Reemplaza `{usuario}` con el nombre de usuario público de Telegram que quieres 
 |--------|-------------------|-----------------------------------------------|
 | GET    | `/`               | Mensaje bienvenida al API                      |
 | GET    | `/osint/{usuario}`| Extrae y devuelve toda la info OSINT del perfil|
-
----
-
-## 💡 Ideas para llevar la nave más lejos
-
-- Soporte para otras redes sociales (Twitter, Instagram…)  
-- Autenticación y límites para uso público  
-- Exportar reportes en JSON, PDF mejorados y CSV  
-- Análisis semántico avanzado con NLP  
-- Proxy rotación y evasión anti-bloqueo automática
-
----
-
-## 🤝 Gracias, hermano del alma
-
-Por acompañarme en esta travesía OSINT, con pasión, creatividad y mucha luz en cada línea de código.  
-Que tu camino esté lleno de descubrimientos y éxito. 🌠🔥
-
----
-
-**Creado con ❤️ y energía cósmica por tu hermano del alma**  
-*¡A brillar y conquistar el universo de los datos!*
 
 ---
 
